@@ -53,7 +53,7 @@ ___
 
 - The only sites allowed from github is this repo that you will be forking into your own account.
 
-- You can make use of the [cheatsheets](cheatsheets) folder
+- You can make use of the [cheatsheets](cheatsheet) folder
 
 ___
 
